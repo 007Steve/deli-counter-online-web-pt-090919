@@ -1,3 +1,4 @@
+
 def line(deliline)
   if deliline.empty?
     puts "The line is currently empty."
