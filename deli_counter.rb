@@ -10,4 +10,3 @@ def line(deliline)
   end
 end
 
-def 
