@@ -9,3 +9,5 @@ def line(deliline)
     puts current_line
   end
 end
+
+def 
